@@ -30,7 +30,7 @@ function TeacherItem() {
 
             <View style={styles.footer}>
                 <Text style={styles.price}>
-                    Preço/hora {'   '}
+                    Preço/hora {':   '}
                     <Text style={styles.priceValue}>R$ 20,00</Text>
                 </Text>
 
